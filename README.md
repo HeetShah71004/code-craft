@@ -2,8 +2,6 @@
 
 ![Demo App](/public/screenshot-for-readme.png)
 
-[Watch Full Tutorial on Youtube](https://youtu.be/fGkRQgf6Scw)
-
 Highlights:
 
 - 🚀 Tech stack: Next.js 15 + Convex + Clerk + TypeScript
